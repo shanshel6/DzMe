@@ -1,0 +1,16 @@
+const t10_headphones="images/theme10/t10_headphones.jpeg";
+const t10_ic_shoes="images/theme10/t10_ic_shoes.jpeg";
+const t10_profile="images/theme10/t10_profile.jpg";
+const t10_profile_1="images/theme10/t10_profile_1.jpg";
+const t10_profile_3="images/theme10/t10_profile_3.jpg";
+const t10_profile_2="images/theme10/t10_profile_2.jpg";
+const t10_slider_1="images/theme10/t10_slider_1.jpeg";
+const t10_profile_5="images/theme10/t10_profile_5.jpg";
+const t10_watch="images/theme10/t10_watch.jpg";
+const t10_profile_6="images/theme10/t10_profile_6.jpg";
+const Theme10Pot="images/theme10/t10_pot.jpg";
+const t10_slider_2="images/theme10/t10_slider_2.jpg";
+const t10_slider_3="images/theme10/t10_slider_3.jpeg";
+const t10_shoes="images/theme10/t10_shoes.jpeg";
+const t10_ic_otp="images/theme10/t10_ic_otp.svg";
+const t10_ic_search="images/theme10/t10_ic_search.svg";

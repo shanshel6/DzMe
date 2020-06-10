@@ -1,0 +1,332 @@
+PODS:
+  - AppAuth (1.3.0):
+    - AppAuth/Core (= 1.3.0)
+    - AppAuth/ExternalUserAgent (= 1.3.0)
+  - AppAuth/Core (1.3.0)
+  - AppAuth/ExternalUserAgent (1.3.0)
+  - call_number (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - connectivity_macos (0.0.1):
+    - Flutter
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - Fabric (1.10.2)
+  - Firebase/Analytics (6.21.0):
+    - Firebase/Core
+  - Firebase/Core (6.21.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.4.0)
+  - Firebase/CoreOnly (6.21.0):
+    - FirebaseCore (= 6.6.5)
+  - firebase_analytics (0.0.1):
+    - Firebase/Analytics (~> 6.0)
+    - Firebase/Core
+    - Flutter
+  - firebase_core (0.0.1):
+    - Firebase/Core
+    - Flutter
+  - firebase_core_web (0.1.0):
+    - Flutter
+  - firebase_crashlytics (0.0.1):
+    - Crashlytics
+    - Fabric
+    - Firebase/Core
+    - Flutter
+  - FirebaseAnalytics (6.4.0):
+    - FirebaseCore (~> 6.6)
+    - FirebaseInstallations (~> 1.1)
+    - GoogleAppMeasurement (= 6.4.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - FirebaseCore (6.6.5):
+    - FirebaseCoreDiagnostics (~> 1.2)
+    - FirebaseCoreDiagnosticsInterop (~> 1.2)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+  - FirebaseCoreDiagnostics (1.2.2):
+    - FirebaseCoreDiagnosticsInterop (~> 1.2)
+    - GoogleDataTransportCCTSupport (~> 2.0)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+    - nanopb (~> 0.3.901)
+  - FirebaseCoreDiagnosticsInterop (1.2.0)
+  - FirebaseInstallations (1.1.1):
+    - FirebaseCore (~> 6.6)
+    - GoogleUtilities/UserDefaults (~> 6.5)
+    - PromisesObjC (~> 1.2)
+  - Flutter (1.0.0)
+  - flutter_statusbarcolor (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - geocoder (0.0.1):
+    - Flutter
+  - geolocator (5.3.1):
+    - Flutter
+  - google_api_availability (2.0.4):
+    - Flutter
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps
+  - google_sign_in (0.0.1):
+    - Flutter
+    - GoogleSignIn (~> 5.0)
+  - google_sign_in_web (0.8.1):
+    - Flutter
+  - GoogleAppMeasurement (6.4.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - GoogleDataTransport (5.1.0)
+  - GoogleDataTransportCCTSupport (2.0.1):
+    - GoogleDataTransport (~> 5.1)
+    - nanopb (~> 0.3.901)
+  - GoogleMaps (3.8.0):
+    - GoogleMaps/Maps (= 3.8.0)
+  - GoogleMaps/Base (3.8.0)
+  - GoogleMaps/Maps (3.8.0):
+    - GoogleMaps/Base
+  - GoogleSignIn (5.0.2):
+    - AppAuth (~> 1.2)
+    - GTMAppAuth (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleUtilities/AppDelegateSwizzler (6.5.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.5.2)
+  - GoogleUtilities/Logger (6.5.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.5.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.5.2)"
+  - GoogleUtilities/Reachability (6.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.5.2):
+    - GoogleUtilities/Logger
+  - GTMAppAuth (1.0.0):
+    - AppAuth/Core (~> 1.0)
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.3.1):
+    - GTMSessionFetcher/Full (= 1.3.1)
+  - GTMSessionFetcher/Core (1.3.1)
+  - GTMSessionFetcher/Full (1.3.1):
+    - GTMSessionFetcher/Core (= 1.3.1)
+  - liquid_swipe (0.0.1):
+    - Flutter
+  - location_permissions (2.0.5):
+    - Flutter
+  - nanopb (0.3.9011):
+    - nanopb/decode (= 0.3.9011)
+    - nanopb/encode (= 0.3.9011)
+  - nanopb/decode (0.3.9011)
+  - nanopb/encode (0.3.9011)
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
+  - PromisesObjC (1.2.8)
+  - razorpay-pod (1.1.5)
+  - razorpay_flutter (1.1.3):
+    - Flutter
+    - razorpay-pod
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - shared_preferences_macos (0.0.1):
+    - Flutter
+  - shared_preferences_web (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - url_launcher (0.0.1):
+    - Flutter
+  - url_launcher_macos (0.0.1):
+    - Flutter
+  - url_launcher_web (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - call_number (from `.symlinks/plugins/call_number/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - connectivity_macos (from `.symlinks/plugins/connectivity_macos/ios`)
+  - firebase_analytics (from `.symlinks/plugins/firebase_analytics/ios`)
+  - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
+  - firebase_core_web (from `.symlinks/plugins/firebase_core_web/ios`)
+  - firebase_crashlytics (from `.symlinks/plugins/firebase_crashlytics/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_statusbarcolor (from `.symlinks/plugins/flutter_statusbarcolor/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - geocoder (from `.symlinks/plugins/geocoder/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - google_api_availability (from `.symlinks/plugins/google_api_availability/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - google_sign_in (from `.symlinks/plugins/google_sign_in/ios`)
+  - google_sign_in_web (from `.symlinks/plugins/google_sign_in_web/ios`)
+  - liquid_swipe (from `.symlinks/plugins/liquid_swipe/ios`)
+  - location_permissions (from `.symlinks/plugins/location_permissions/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
+  - razorpay_flutter (from `.symlinks/plugins/razorpay_flutter/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - shared_preferences_macos (from `.symlinks/plugins/shared_preferences_macos/ios`)
+  - shared_preferences_web (from `.symlinks/plugins/shared_preferences_web/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - url_launcher_macos (from `.symlinks/plugins/url_launcher_macos/ios`)
+  - url_launcher_web (from `.symlinks/plugins/url_launcher_web/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppAuth
+    - Crashlytics
+    - Fabric
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseCoreDiagnosticsInterop
+    - FirebaseInstallations
+    - FMDB
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleDataTransportCCTSupport
+    - GoogleMaps
+    - GoogleSignIn
+    - GoogleUtilities
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - nanopb
+    - PromisesObjC
+    - razorpay-pod
+    - Reachability
+
+EXTERNAL SOURCES:
+  call_number:
+    :path: ".symlinks/plugins/call_number/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  connectivity_macos:
+    :path: ".symlinks/plugins/connectivity_macos/ios"
+  firebase_analytics:
+    :path: ".symlinks/plugins/firebase_analytics/ios"
+  firebase_core:
+    :path: ".symlinks/plugins/firebase_core/ios"
+  firebase_core_web:
+    :path: ".symlinks/plugins/firebase_core_web/ios"
+  firebase_crashlytics:
+    :path: ".symlinks/plugins/firebase_crashlytics/ios"
+  Flutter:
+    :path: Flutter
+  flutter_statusbarcolor:
+    :path: ".symlinks/plugins/flutter_statusbarcolor/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  geocoder:
+    :path: ".symlinks/plugins/geocoder/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  google_api_availability:
+    :path: ".symlinks/plugins/google_api_availability/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  google_sign_in:
+    :path: ".symlinks/plugins/google_sign_in/ios"
+  google_sign_in_web:
+    :path: ".symlinks/plugins/google_sign_in_web/ios"
+  liquid_swipe:
+    :path: ".symlinks/plugins/liquid_swipe/ios"
+  location_permissions:
+    :path: ".symlinks/plugins/location_permissions/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
+  razorpay_flutter:
+    :path: ".symlinks/plugins/razorpay_flutter/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  shared_preferences_macos:
+    :path: ".symlinks/plugins/shared_preferences_macos/ios"
+  shared_preferences_web:
+    :path: ".symlinks/plugins/shared_preferences_web/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  url_launcher_macos:
+    :path: ".symlinks/plugins/url_launcher_macos/ios"
+  url_launcher_web:
+    :path: ".symlinks/plugins/url_launcher_web/ios"
+
+SPEC CHECKSUMS:
+  AppAuth: 73574f3013a1e65b9601a3ddc8b3158cce68c09d
+  call_number: 8b9c3a5c15b15087917ab826e21c5b8f1a4156d6
+  connectivity: 6e94255659cc86dcbef1d452ad3e0491bb1b3e75
+  connectivity_macos: e2e9731b6b22dda39eb1b128f6969d574460e191
+  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
+  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  Firebase: f378c80340dd41c0ad0914af740c021eb282a04b
+  firebase_analytics: dacdcfc524d722fff13dcff942f0dfa47e6be567
+  firebase_core: 0d8be0e0d14c4902953aeb5ac5d7316d1fe4b978
+  firebase_core_web: d501d8b946b60c8af265428ce483b0fff5ad52d1
+  firebase_crashlytics: bd8c58df07f107cb7e1a20cb190b9a468e0a69fd
+  FirebaseAnalytics: a1a0b3327ceb5cd5b4bacffdb293f6c909aa087d
+  FirebaseCore: 9f495d3afacb7b558711e6218ebb14b1c51b5802
+  FirebaseCoreDiagnostics: e9b4cd8ba60dee0f2d13347332e4b7898cca5b61
+  FirebaseCoreDiagnosticsInterop: 296e2c5f5314500a850ad0b83e9e7c10b011a850
+  FirebaseInstallations: acb3216eb9784d3b1d2d2d635ff74fa892cc0c44
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_statusbarcolor: 8afb1071ed8c58be929f1e32b36c629771fd2259
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  geocoder: 3cfab70531a0b367e917bafe82df4c30f6d4c45a
+  geolocator: 460cc8e850b616f8c0e90944c86517d91ccbb686
+  google_api_availability: 15fa42a8cd83c0a6738507ffe6e87096f12abcb8
+  google_maps_flutter: 78a52114c898b42ea647919679a4c58b70abe876
+  google_sign_in: f32920a589fdf4ab2918ec6dc5e5b0d5b8040ff5
+  google_sign_in_web: 52deb24929ac0992baff65c57956031c44ed44c3
+  GoogleAppMeasurement: 6e68a94d0eaeb1d73ef6b0ed4f7334e29d63ae29
+  GoogleDataTransport: b29a21d813e906014ca16c00897827e40e4a24ab
+  GoogleDataTransportCCTSupport: 6f15a89b0ca35d6fa523e1f752ef818588885988
+  GoogleMaps: 7c8d66d70e4e8c300f43a7219d8fdaad7b325a9a
+  GoogleSignIn: 7137d297ddc022a7e0aa4619c86d72c909fa7213
+  GoogleUtilities: ad0f3b691c67909d03a3327cc205222ab8f42e0e
+  GTMAppAuth: 4deac854479704f348309e7b66189e604cf5e01e
+  GTMSessionFetcher: cea130bbfe5a7edc8d06d3f0d17288c32ffe9925
+  liquid_swipe: d3dbe523989a927528e7e7d2d0fc674da90cbbf7
+  location_permissions: 4a49d4e5bec5b653643e551ab77963cc99bb0e4a
+  nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+  PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
+  razorpay-pod: 31dd24ddb70275d82be12527b45001f9bc9f1be2
+  razorpay_flutter: 347215399cb0b826953fd44b88f0e4eba39695a0
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: 430726339841afefe5142b9c1f50cb6bd7793e01
+  shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
+  shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+  url_launcher_macos: fd7894421cd39320dce5f292fc99ea9270b2a313
+  url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.7.4

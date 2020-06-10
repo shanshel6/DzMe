@@ -1,0 +1,140 @@
+name: prokit_flutter
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_fonts:  0.2.0
+  curved_navigation_bar: ^0.3.2
+  dots_indicator: ^0.0.4
+  flutter_statusbarcolor: 0.2.3
+  flutter_rating_bar: 3.0.1+1
+  simple_animations: 1.3.8
+  percent_indicator: ^2.1.1
+  snaplist:
+  flutter_svg:
+  flutter_slidable:
+  flutter_staggered_grid_view:
+  auto_size_text:
+  flutter_staggered_animations:
+  nb_utils: 3.0.3
+  flutter_multi_carousel: ^1.0.0
+  intl:
+  dashed_circle: 0.0.1
+  url_launcher: ^5.0.3
+  fluttertoast: ^3.1.3
+  http:
+  shared_preferences:
+  connectivity:
+  firebase_core:
+  firebase_analytics:
+  firebase_crashlytics:
+  provider:
+  google_sign_in:
+  #flutter_facebook_login: 3.0.0
+  geolocator:
+  geocoder:
+  html:
+  google_maps_flutter:
+  clustering_google_maps:
+  razorpay_flutter:
+  after_layout:
+  before_after:
+  liquid_pull_to_refresh:
+  expandable:
+  flutter_custom_clippers:
+  livestream:
+  sliding_up_panel:
+  wave:
+  signature:
+  folding_cell:
+  flutter_fluid_slider:
+  liquid_swipe:
+  lipsum:
+  flutter_colorpicker:
+  flutter_localizations:
+    sdk: flutter
+  rating_bar:
+  call_number: 0.0.1
+
+  clippy_flutter: 1.1.1
+  flutter_tags: ^0.4.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/integrations/lang/
+    - assets/shophop_data/
+    - images/app/icons/
+    - images/app/
+    - images/myimages/
+    - images/theme1/
+    - images/theme2/
+    - images/theme3/
+    - images/theme4/
+    - images/theme5/
+    - images/theme6/
+    - images/theme7/
+    - images/theme8/
+    - images/theme9/
+    - images/theme10/
+    - images/dashboard/
+    - images/flags/
+    - images/qibus/
+    - images/theme11/
+    - images/learner/
+    - images/social/
+    - images/quiz/
+    - images/food/
+    - images/grocery/
+    - images/integrations/icons/
+    - images/integrations/img/
+    - images/shophop/
+    - images/shophop/radar.gif
+    - images/shophop/img/products/
+    - images/shophop/img/products/decor/
+    - images/shophop/img/products/dress/
+    - images/shophop/img/products/shoes/
+    - images/shophop/img/products/banners/b1.jpg
+    - images/shophop/img/products/banners/b2.jpg
+    - images/shophop/img/products/banners/b3.jpg
+    - images/shophop/img/products/banners/b4.jpg
+    - images/shophop/img/products/banners/b5.jpg
+    - images/shophop/img/products/banners/b6.jpg
+
+  fonts:
+    - family: Andina
+      fonts:
+        - asset: fonts/andina.ttf
+
+    - family: Regular
+      fonts:
+        - asset: fonts/googlesansregular.ttf
+
+    - family: Medium
+      fonts:
+        - asset: fonts/googlesansmedium.ttf
+
+    - family: Semibold
+      fonts:
+        - asset: fonts/googlesansmedium.ttf
+
+    - family: Bold
+      fonts:
+        - asset: fonts/googlesansebold.ttf
+

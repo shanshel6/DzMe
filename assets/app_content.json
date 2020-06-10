@@ -1,0 +1,2009 @@
+{
+  "themes": [
+    {
+      "name": "File Manager",
+      "title_name": "Theme 1 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1WalkThrough"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T1SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_up.png",
+          "tag": "/T1SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_profile.png",
+          "tag": "/T1Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T1Dashboard"
+        },
+        {
+          "name": "Side Menu",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_seide_menu.png",
+          "tag": "/T1SideMenu"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1BottomNavigation"
+        },
+        {
+          "name": "BottomSheet",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_sheet.png",
+          "tag": "/T1BottomSheet"
+        },
+        {
+          "name": "Image Slider",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T1ImageSlider"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_search.png",
+          "tag": "/T1Search"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T1Listing"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T1Cards"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T1Dialog"
+        }
+      ]
+    },
+    {
+      "name": "Exercise Tips",
+      "title_name": "Theme 2 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T2WalkThrough"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_up.png",
+          "tag": "/T2SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_profile.png",
+          "tag": "/T2Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T2Dashboard"
+        },
+        {
+          "name": "Side Menu",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_seide_menu.png",
+          "tag": "/T2SideMenu"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T2BottomNavigation"
+        },
+        {
+          "name": "BottomSheet",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_sheet.png",
+          "tag": "/T2BottomSheet"
+        },
+        {
+          "name": "Image Slider",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T2ImageSlider"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_search.png",
+          "tag": "/T2Search"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T2Listing"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T2Cards"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T2Dialog"
+        }
+      ]
+    },
+    {
+      "name": "Food Recipe",
+      "title_name": "Theme 1 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T3WalkThrough"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_up.png",
+          "tag": "/T3SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_profile.png",
+          "tag": "/T3Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T3Dashboard"
+        },
+        {
+          "name": "Description",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T3Description"
+        },
+        {
+          "name": "Side Menu",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_seide_menu.png",
+          "tag": "/T3SideMenu"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T3BottomNavigation"
+        },
+        {
+          "name": "BottomSheet",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_sheet.png",
+          "tag": "/T3BottomSheet"
+        },
+        {
+          "name": "Image Slider",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T3ImageSlider"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_search.png",
+          "tag": "/T3Search"
+        },
+        {
+          "name": "Tabs",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T3Tab"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T3Listing"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T3Cards"
+        },
+        {
+          "name": "Setting",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T3Setting"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T3Dialog"
+        }
+      ]
+    },
+    {
+      "name": "Feed App",
+      "title_name": "Theme 1 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T4WalkThrough"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_up.png",
+          "tag": "/T4SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_profile.png",
+          "tag": "/T4Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T4Dashboard"
+        },
+        {
+          "name": "Detail",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_seide_menu.png",
+          "tag": "/T4Description"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T4BottomNavigation"
+        },
+        {
+          "name": "Image Slider",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T4ImageSlider"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T4Listing"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T4Cards"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T4Dialog"
+        }
+      ]
+    },
+    {
+      "name": "e-wallet",
+      "title_name": "Theme 1 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T5WalkThrough"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_up.png",
+          "tag": "/T5SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_profile.png",
+          "tag": "/T5Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T5Dashboard"
+        },
+        {
+          "name": "Settings",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_seide_menu.png",
+          "tag": "/T5Settings"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T5BottomNavigation"
+        },
+        {
+          "name": "BottomSheet",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_sheet.png",
+          "tag": "/T5BottomSheet"
+        },
+        {
+          "name": "Image Slider",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T5ImageSlider"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_search.png",
+          "tag": "/T5Search"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T5Listing"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T5Cards"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T5Dialog"
+        }
+      ]
+    },
+    {
+      "name": "Gym",
+      "title_name": "Theme 6 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T6WalkThrough"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_up.png",
+          "tag": "/T6SignUp"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T6Dashboard"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T6BottomNavigation"
+        },
+        {
+          "name": "Setting",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T6Setting"
+        },
+        {
+          "name": "Image Slider",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T6ImageSlider"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T6List"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T6Cards"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T6Dialog"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Booking",
+      "title_name": "Theme 7 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T7WalkThrough"
+        },
+        {
+          "name": "Social Login",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7SocialLogin"
+        },
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7SignIn"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T7Dashboard"
+        },
+        {
+          "name": "Hotel Booking Home",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T7HotelBooking"
+        },
+        {
+          "name": "Hotel Detail",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T7HotelDetail"
+        },
+        {
+          "name": "Hotel List",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_slider.png",
+          "tag": "/T7HotelList"
+        },
+        {
+          "name": "Place Detail",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_list.png",
+          "tag": "/T7PlaceDetail"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_cards.png",
+          "tag": "/T7Search"
+        },
+        {
+          "name": "Bottom Sheet",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dialog.png",
+          "tag": "/T7BottomSheet"
+        }
+      ]
+    },
+    {
+      "name": "Quiz",
+      "title_name": "Theme 8 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8SignUp"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8Dashboard"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8BottomNavigation"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8Cards"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8Listing"
+        },
+        {
+          "name": "Result",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8Result"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8Search"
+        },
+        {
+          "name": "Setting",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T8Setting"
+        }
+      ]
+    },
+    {
+      "name": "Learner",
+      "title_name": "Theme 9 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9Dashboard"
+        },
+        {
+          "name": "Description",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9Description"
+        },
+        {
+          "name": "Bottom Navigation",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9BottomNavigation"
+        },
+        {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9Cards"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9List"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T9Search"
+        }
+      ]
+    },
+    {
+      "name": "Music Streaming",
+      "title_name": "Theme 10 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Dashboard"
+        },
+        {
+          "name": "Search",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Search"
+        },
+        {
+          "name": "Description",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Description"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11List"
+        },
+        {
+          "name": "Setting",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Setting"
+        },
+        {
+          "name": "BottomSheet",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_sheet.png",
+          "tag": "/T11BottomSheet"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce",
+      "title_name": "Theme 11 Screens",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Sign In",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10SignIn"
+        },
+        {
+          "name": "Sign Up",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10SignUp"
+        },
+        {
+          "name": "Profile",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10Profile"
+        },
+        {
+          "name": "Dashboard",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Dashboard"
+        },
+        {
+          "name": "Side Menu",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10SideMenu"
+        },
+        {
+          "name": "Description",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Description"
+        },
+        {
+          "name": "Listing",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Listing"
+        }, {
+          "name": "Cards",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Cards"
+        },
+        {
+          "name": "Dialog",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Dialog"
+        }
+      ]
+    }
+  ],
+  "screen_list": [
+    {
+      "name": "WalkThrough",
+      "title_name": "WalkThrough Screens",
+      "type": "",
+      "icon": "/app_ic_slider",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "WalkThrough 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1WalkThrough"
+        },
+        {
+          "name": "WalkThrough 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2WalkThrough"
+        },
+        {
+          "name": "WalkThrough 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3WalkThrough"
+        },
+        {
+          "name": "WalkThrough 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4WalkThrough"
+        },
+        {
+          "name": "WalkThrough 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5WalkThrough"
+        },
+        {
+          "name": "WalkThrough 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6WalkThrough"
+        },
+        {
+          "name": "WalkThrough 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7WalkThrough"
+        }
+      ]
+    },
+    {
+      "name": "Sign In",
+      "title_name": "Sign In Screens",
+      "type": "",
+      "icon": "/app_ic_sign_in.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Sign In 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T1SignIn"
+        },
+        {
+          "name": "Sign In 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2SignIn"
+        },
+        {
+          "name": "Sign In 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3SignIn"
+        },
+        {
+          "name": "Sign In 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4SignIn"
+        },
+        {
+          "name": "Sign In 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5SignIn"
+        },
+        {
+          "name": "Sign In 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6SignIn"
+        },
+        {
+          "name": "Sign In 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7SignIn"
+        },
+        {
+          "name": "Sign In 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8SignIn"
+        },
+        {
+          "name": "Sign In 9",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9SignIn"
+        },
+        {
+          "name": "Sign In 10",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11SignIn"
+        },
+        {
+          "name": "Sign In 11",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10SignIn"
+        }
+      ]
+    },
+    {
+      "name": "Sign Up",
+      "title_name": "Sign Up Screens",
+      "type": "",
+      "icon": "/app_ic_sign_up.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Sign Up 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1SignUp"
+        },
+        {
+          "name": "Sign Up 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2SignUp"
+        },
+        {
+          "name": "Sign Up 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3SignUp"
+        },
+        {
+          "name": "Sign Up 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4SignUp"
+        },
+        {
+          "name": "Sign Up 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5SignUp"
+        },
+        {
+          "name": "Sign Up 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6SignUp"
+        },
+        {
+          "name": "Sign Up 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8SignUp"
+        },
+        {
+          "name": "Sign Up 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9SignUp"
+        },
+        {
+          "name": "Sign Up 9",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11SignUp"
+        },
+        {
+          "name": "Sign Up 10",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10SignUp"
+        }
+      ]
+    },
+    {
+      "name": "Profile",
+      "title_name": "Profile Screens",
+      "type": "",
+      "icon": "/app_ic_profile.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Profile 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1Profile"
+        },
+        {
+          "name": "Profile 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2Profile"
+        },
+        {
+          "name": "Profile 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Profile"
+        },
+        {
+          "name": "Profile 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4Profile"
+        },
+        {
+          "name": "Profile 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Profile"
+        },
+        {
+          "name": "Profile 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9Profile"
+        },
+        {
+          "name": "Profile 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11Profile"
+        },
+        {
+          "name": "Profile 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10Profile"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "title_name": "Dashboard Screens",
+      "type": "",
+      "icon": "/app_ic_dashboard.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Dashboard 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1Dashboard"
+        },
+        {
+          "name": "Dashboard 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2Dashboard"
+        },
+        {
+          "name": "Dashboard 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Dashboard"
+        },
+        {
+          "name": "Dashboard 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4Dashboard"
+        },
+        {
+          "name": "Dashboard 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Dashboard"
+        },
+        {
+          "name": "Dashboard 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6Dashboard"
+        },
+        {
+          "name": "Dashboard 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7Dashboard"
+        },
+        {
+          "name": "Dashboard 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8Dashboard"
+        },
+        {
+          "name": "Dashboard 9",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9Dashboard"
+        },
+        {
+          "name": "Dashboard 10",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Dashboard"
+        },
+        {
+          "name": "Dashboard 11",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Dashboard"
+        }
+      ]
+    },
+    {
+      "name": "Side Menu",
+      "title_name": "Side Menu",
+      "type": "",
+      "icon": "/app_ic_seide_menu.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Side Menu 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_seide_menu.png",
+          "tag": "/T1SideMenu"
+        },
+        {
+          "name": "Side Menu 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2SideMenu"
+        },
+        {
+          "name": "Side Menu 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3SideMenu"
+        },
+        {
+          "name": "Side Menu 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10SideMenu"
+        }
+      ]
+    },
+    {
+      "name": "Bottom Navigation",
+      "title_name": "Bottom Navigation",
+      "type": "",
+      "icon": "/app_ic_bottom_navigation.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Bottom Navigation 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8BottomNavigation"
+        },
+        {
+          "name": "Bottom Navigation 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9BottomNavigation"
+        }
+      ]
+    },
+    {
+      "name": "Detail Screen",
+      "title_name": "Detail Screen Screens",
+      "type": "",
+      "icon": "/app_ic_description.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Detail Screen 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T3Description"
+        },
+        {
+          "name": "Detail Screen 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4Description"
+        },
+        {
+          "name": "Detail Screen 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7PlaceDetail"
+        },
+        {
+          "name": "Detail Screen 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9Description"
+        },
+        {
+          "name": "Detail Screen 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Description"
+        },
+        {
+          "name": "Detail Screen 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Description"
+        }
+      ]
+    },
+    {
+      "name": "Image Slider",
+      "title_name": "Image Slider",
+      "type": "",
+      "icon": "/app_ic_slider.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Image Slider 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1ImageSlider"
+        },
+        {
+          "name": "Image Slider 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2ImageSlider"
+        },
+        {
+          "name": "Image Slider 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3ImageSlider"
+        },
+        {
+          "name": "Image Slider 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4ImageSlider"
+        },
+        {
+          "name": "Image Slider 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5ImageSlider"
+        },
+        {
+          "name": "Image Slider 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6ImageSlider"
+        }
+      ]
+    },
+    {
+      "name": "Bottom Sheet",
+      "title_name": "Bottom Sheet",
+      "type": "",
+      "show_cover": true,
+      "icon": "/app_ic_bottom_sheet.png",
+      "sub_kits": [
+        {
+          "name": "Bottom Sheet 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1BottomSheet"
+        },
+        {
+          "name": "Bottom Sheet 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2BottomSheet"
+        },
+        {
+          "name": "Bottom Sheet 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3BottomSheet"
+        },
+        {
+          "name": "Bottom Sheet 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5BottomSheet"
+        },
+        {
+          "name": "Bottom Sheet 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7BottomSheet"
+        },
+        {
+          "name": "Bottom Sheet 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T11BottomSheet"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "title_name": "Search Screens",
+      "type": "",
+      "icon": "/app_ic_search.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Search 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1Search"
+        },
+        {
+          "name": "Search 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2Search"
+        },
+        {
+          "name": "Search 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Search"
+        },
+        {
+          "name": "Search 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Search"
+        },
+        {
+          "name": "Search 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7Search"
+        },
+        {
+          "name": "Search 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8Search"
+        },
+        {
+          "name": "Search 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9Search"
+        },
+        {
+          "name": "Search 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Search"
+        }
+      ]
+    },
+    {
+      "name": "Listing",
+      "title_name": "Listing",
+      "type": "",
+      "icon": "/app_ic_list.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Listing 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1Listing"
+        },
+        {
+          "name": "Listing 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2Listing"
+        },
+        {
+          "name": "Listing 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Listing"
+        },
+        {
+          "name": "Listing 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4Listing"
+        },
+        {
+          "name": "Listing 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Listing"
+        },
+        {
+          "name": "Listing 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6List"
+        },
+        {
+          "name": "Listing 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T7HotelList"
+        },
+        {
+          "name": "Listing 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8Listing"
+        },
+        {
+          "name": "Listing 9",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9List"
+        },
+        {
+          "name": "Listing 10",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11List"
+        },
+        {
+          "name": "Listing 11",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T10Listing"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "title_name": "Cards",
+      "type": "",
+      "icon": "/app_ic_cards.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Cards 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1Cards"
+        },
+        {
+          "name": "Cards 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2Cards"
+        },
+        {
+          "name": "Cards 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Cards"
+        },
+        {
+          "name": "Cards 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4Cards"
+        },
+        {
+          "name": "Cards 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Cards"
+        },
+        {
+          "name": "Cards 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6Cards"
+        },
+        {
+          "name": "Cards 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8Cards"
+        },
+        {
+          "name": "Cards 8",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T9Cards"
+        },
+        {
+          "name": "Cards 9",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10Cards"
+        }
+      ]
+    },
+    {
+      "name": "Dialog",
+      "title_name": "Dialogs",
+      "icon": "/app_ic_dialog.png",
+      "type": "",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Dialog 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_bottom_navigation.png",
+          "tag": "/T1Dialog"
+        },
+        {
+          "name": "Dialog 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T2Dialog"
+        },
+        {
+          "name": "Dialog 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Dialog"
+        },
+        {
+          "name": "Dialog 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T4Dialog"
+        },
+        {
+          "name": "Dialog 5",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Dialog"
+        },
+        {
+          "name": "Dialog 6",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6Dialog"
+        },
+        {
+          "name": "Dialog 7",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T10Dialog"
+        }
+      ]
+    },
+    {
+      "name": "Settings",
+      "title_name": "Settings Screens",
+      "type": "",
+      "icon": "/app_ic_setting.png",
+      "show_cover": true,
+      "sub_kits": [
+        {
+          "name": "Settings 1",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T3Settings"
+        },
+        {
+          "name": "Settings 2",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T5Settings"
+        },
+        {
+          "name": "Settings 3",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T6Setting"
+        },
+        {
+          "name": "Settings 4",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_sign_in.png",
+          "tag": "/T8Setting"
+        },
+        {
+          "name": "Setting",
+          "type": "",
+          "is_theme": true,
+          "icon": "/app_ic_dashboard.png",
+          "tag": "/T11Setting"
+        }
+      ]
+    }
+  ],
+  "dashboard": {
+    "name": "Dashboard",
+    "title_name": "Dashboard Screens",
+    "type": "",
+    "icon": "/app_ic_setting.png",
+    "show_cover": true,
+    "sub_kits": [
+      {
+        "name": "Food",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard1"
+      },
+      {
+        "name": "E-commerce",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard2"
+      },
+      {
+        "name": "Furniture",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard3"
+      },
+      {
+        "name": "e-wallet",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard4"
+      },
+      {
+        "name": "Hotel Booking",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard5"
+      },
+      {
+        "name": "Laundry",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard6"
+      },
+      {
+        "name": "Medical",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard7"
+      },
+      {
+        "name": "Home automation",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/Dashboard8"
+      }
+    ]
+  },
+  "fullapp": {
+    "name": "Full App",
+    "title_name": "Full App Screens",
+    "type": "New",
+    "icon": "/app_ic_setting.png",
+    "show_cover": true,
+    "sub_kits": [
+      {
+        "name": "QIBus",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/QIBusSplash"
+      },
+      {
+        "name": "Learner",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/LearnerWalkThrough"
+      },
+      {
+        "name": "Online Quiz",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/QuizSignIn"
+      },
+      {
+        "name": "Social",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/SocialWalkThrough"
+      },
+      {
+        "name": "Shop hop",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/ShophopSplash"
+      },
+      {
+        "name": "Food App",
+        "type": "",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/FoodWalkThrough"
+      },
+      {
+        "name": "Grocery",
+        "type": "New",
+        "icon": "/app_ic_bottom_navigation.png",
+        "tag": "/GrocerySplashScreen"
+      }
+    ]
+  }
+}

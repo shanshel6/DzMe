@@ -1,0 +1,118 @@
+import 'package:flutter/material.dart';
+import 'package:nb_utils/nb_utils.dart';
+import 'package:prokit_flutter/Quiz/model/QuizModels.dart';
+import 'package:prokit_flutter/Quiz/Screens/QuizDetails.dart';
+import 'package:prokit_flutter/Quiz/utils/QuizColors.dart';
+import 'package:prokit_flutter/Quiz/utils/QuizConstant.dart';
+import 'package:prokit_flutter/Quiz/utils/QuizDataGenerator.dart';
+import 'package:prokit_flutter/Quiz/utils/QuizExtension.dart';
+import 'package:prokit_flutter/Quiz/utils/QuizStrings.dart';
+import 'package:prokit_flutter/Quiz/utils/QuizWidget.dart';
+
+class QuizSearch extends StatefulWidget {
+  static String tag = '/QuizSearch';
+
+  @override
+  _QuizSearchState createState() => _QuizSearchState();
+}
+
+class _QuizSearchState extends State<QuizSearch> {
+  List<NewQuizModel> mListings;
+  var searchCont = TextEditingController();
+
+  @override
+  void initState() {
+    super.initState();
+    mListings = getQuizData();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    var width = MediaQuery.of(context).size.width;
+
+    final QuizAll = GridView.builder(
+      scrollDirection: Axis.vertical,
+      itemCount: mListings.length,
+      physics: NeverScrollableScrollPhysics(),
+      shrinkWrap: true,
+      itemBuilder: (context, index) {
+        changeStatusColor(quiz_app_background);
+        return Container(
+          color: quiz_white,
+          //decoration: boxDecoration(radius: 16, showShadow: true, bgColor: quiz_white),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: <Widget>[
+              ClipRRect(
+                  borderRadius: BorderRadius.only(
+                    topLeft: Radius.circular(16.0),
+                    topRight: Radius.circular(16.0),
+                  ),
+                  child: Image.asset(
+                    mListings[index].quizImage,
+                    height: width * 0.4,
+                    width: MediaQuery.of(context).size.width / 0.25,
+                    fit: BoxFit.cover,
+                  )),
+              text(mListings[index].quizName,
+                  fontSize: textSizeMedium,
+                  isLongText: true,
+                  fontFamily: fontMedium).paddingOnly(top: 8,left: 16,right: 16,bottom: 8),
+              SizedBox(
+                height: 8,
+              ),
+              text(mListings[index].totalQuiz, textColor: quiz_textColorSecondary).paddingOnly(left: 16,right: 16,bottom: 8),
+            ],
+          ),
+        ).cornerRadiusWithClipRRect(16).paddingAll(16).onTap(() {
+          launchScreen(context, QuizDetails.tag);
+        });
+      },
+      gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+        crossAxisCount: 2,
+        childAspectRatio: 0.58,
+      ),
+    );
+
+    changeStatusColor(quiz_app_background);
+    return Scaffold(
+      backgroundColor: quiz_app_background,
+      body: SingleChildScrollView(
+        child: SafeArea(
+          child: Column(
+            children: <Widget>[
+              quizTopBar(""),
+              Padding(
+                padding: const EdgeInsets.all(16),
+                child: TextFormField(
+                  controller: searchCont,
+                  style: TextStyle(
+                      fontSize: textSizeLargeMedium, fontFamily: fontRegular),
+                  decoration: InputDecoration(
+                    prefixIcon: Icon(Icons.search),
+                    contentPadding: EdgeInsets.fromLTRB(16, 10, 16, 10),
+                    hintText: quiz_lbl_search,
+                    filled: true,
+                    fillColor: quiz_white,
+                    hintStyle: TextStyle(color: quiz_view_color),
+                    enabledBorder: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(10),
+                      borderSide: const BorderSide(
+                          color: quiz_app_background, width: 0.0),
+                    ),
+                    focusedBorder: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(10),
+                      borderSide: const BorderSide(
+                          color: quiz_app_background, width: 0.0),
+                    ),
+                  ),
+                ),
+              ),
+              searchCont.text.length >= 1 ? QuizAll : Container()
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
